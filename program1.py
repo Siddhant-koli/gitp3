@@ -1,4 +1,4 @@
 # program1.py
 
 for i in range(1, 11):
-    print("Cube of", i, "=", i * i * i)
+    print("Square of", i, "=", i * i)
